@@ -10,7 +10,7 @@ const  {
         cariData,
         menanganiIya,
         jalurDanKelas
-        }  = require('./coba');
+        }  = require('./data');
 
 const bot = new Telegraf('7550933221:AAHfkcHHx3tp7YRq1A1VwGbT0yAKtOTp_9Y');  
 
